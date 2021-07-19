@@ -14,7 +14,7 @@
   <img src="https://cdn.discordapp.com/attachments/847557977170116608/866786442998448158/a_58562879b202f7721d106182ef8d97e6_1.gif" alt="Avatar">
 </p>
 <p align="center">
-    @heartkilll0911
+    @heartkill0911
 <p align="center">
 ------
   
