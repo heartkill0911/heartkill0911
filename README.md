@@ -27,7 +27,7 @@
 <p align="center">
 ------
 <p align="center">  
-<a href="https://discord.gg/active"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/corina"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+<a href="https://discord.gg/lying"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/lying"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
   
 -----------
 
