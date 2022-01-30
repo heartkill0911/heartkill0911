@@ -4,7 +4,7 @@
      </a>
 
 <p align="center">
-  <a href="https://discord.com/users/736313894464651335">
+  <a href="https://discord.com/users/925809905280114748>
     <img src="https://discord.c99.nl/widget/theme-1/736313894464651335.png"/>
      </a>
 </p>
